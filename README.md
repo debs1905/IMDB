@@ -1,7 +1,5 @@
 # ***IMDb***
-<p align="center">
-  <img width="600" height="300" src="New folder/ZZ4DBD2C64.jpg">
-</p>
+
 *Description:*
 -
  This IMDb dataset encompasses a rich repository of film and television data sourced from the Internet Movie Database (IMDb). It encompasses a diverse array of information including movie titles, release dates, genres, ratings, box office earnings, cast and crew details, user reviews, and plot summaries. With its extensive coverage spanning decades of cinematic history and global productions, this dataset offers invaluable insights for research, analysis, and modeling in areas such as film studies, recommendation systems, sentiment analysis, and more within the realm of entertainment analytics.
@@ -43,9 +41,7 @@
 - (c) Titanic(458.67M) 
 - (d) Star Wars: Episode IV - A New Hope(449.94M) 
 - (e) E.T. the Extra-Terrestrial(424.45M)
-<p align="center">
-  <img width="500" height="300" src="New folder/profit movies.png">
-</p>
+
 3. Among the genres listed in the dataset, Action emerged as the top revenue-generating category, accumulating a staggering $67,599,769,950. Conversely, Thriller appeared to be the least lucrative genre, generating a comparatively modest revenue of $121,539.
 
 
@@ -54,17 +50,13 @@
 English language films dominate in terms of production volume, indicating the prevalence and global reach of English-language cinema.
 
 5. English language films dominate in terms of production volume, indicating the prevalence and global reach of English-language cinema.
-<p align="center">
-  <img width="500" height="300" src="New folder/language.png">
-</p>
+
 
 
 6. The United States leads in film production, with a staggering 2944 movies credited to its prolific industry, showcasing its robust contribution to the global cinematic landscape.
 
 7. The Shawshank Redemption stands out with the highest IMDb rating of 9.3, solidifying its position as one of the most highly acclaimed films according to IMDb users.
-<p align="center">
-  <img width="500" height="300" src="New folder/imdb rate.png">
-</p>
+
 
 
 
@@ -79,18 +71,14 @@ English language films dominate in terms of production volume, indicating the pr
 - (iii) Fateless
 - (iv) Princess Mononoke
 - (v) Steamboy
-<p align="center">
-  <img width="500" height="300" src="New folder/top5budget movies.png">
-</p>
+
 
 
 10. Among genres, Action garners the highest number of likes, reflecting its strong appeal and engagement with viewers.
 
 
 11. According to the dataset, the film 'Avatar', released in 2009, emerges as the most profitable movie, with earnings totaling an impressive $523.51 million. This figure underscores the tremendous success of James Cameron's groundbreaking sci-fi epic, solidifying its status not only as a cultural phenomenon but also as a commercial powerhouse in the film industry.
-<p align="center">
-  <img width="500" height="300" src="New folder/profit movies.png">
-</p>
+
 
 
 
